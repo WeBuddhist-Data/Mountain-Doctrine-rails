@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,9 +200,10 @@
   "active": "de4070ad19ee4cd2",
   "lastOpenFiles": [
     "1-SOURCES/Text/རི་ཆོས་ངེས་དོན་རྒྱ་མཚོ།.md",
+    "1-SOURCES/Commentaries/རི་ཆོས་ངེས་དོན་རྒྱ་མཚོའི་ས་བཅད།.md",
+    "1-SOURCES/Commentaries/རི་ཆོས་ངེས་དོན་རྒྱ་མཚོའི་ས་བཅད།࿌.md",
     "1-SOURCES/Text/richos_main_segmented_v3.md",
     "1-SOURCES/Text/རི་ཆོས་ངེས་དོན་རྒྱ་མཚོ_རང་ཉིད་ཁོ་ན.md",
-    "1-SOURCES/Commentaries/རི་ཆོས་ངེས་དོན་རྒྱ་མཚོའི་ས་བཅད།.md",
     "1-SOURCES/Text/རི་ཆོས་ངེས་དོན་རྒྱ་མཚོ_དུམ་མཚམས་གཏུབ་ཟིན (1).md",
     "1-SOURCES/Text/རི་ཆོས་ངེས་དོན་རྒྱ་མཚོ_དུམ་མཚམས་གཏུབ་ཟིན.md",
     "1-SOURCES/Commentaries/R5E5EB7E5 རི་ཆོས་ངེས་དོན་རྒྱ་མཚོའི་ས་བཅད།.md",
@@ -234,7 +234,6 @@
     "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/property-creator/SKILL.md",
-    "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
-    "4-SYSTEM/Skills/local-wiki-article/SKILL.md"
+    "4-SYSTEM/Skills/json-to-source-text/SKILL.md"
   ]
 }
