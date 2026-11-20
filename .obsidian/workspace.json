@@ -197,8 +197,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "de4070ad19ee4cd2",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
+    "1-SOURCES/Text/རི་ཆོས་ངེས་དོན་རྒྱ་མཚོ། (1).md",
     "1-SOURCES/Commentaries/རི་ཆོས་ངེས་དོན་རྒྱ་མཚོའི་ས་བཅད།.md",
     "1-SOURCES/Text/རི་ཆོས་ངེས་དོན་རྒྱ་མཚོ།.md",
     "1-SOURCES/Commentaries/རི་ཆོས་ངེས་དོན་རྒྱ་མཚོའི་ས་བཅད།࿌.md",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
     "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/property-creator/SKILL.md",
-    "4-SYSTEM/Skills/json-to-source-text/SKILL.md"
+    "4-SYSTEM/Skills/property-creator/SKILL.md"
   ]
 }
